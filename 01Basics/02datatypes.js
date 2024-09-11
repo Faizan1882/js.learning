@@ -15,3 +15,5 @@ let isloggedIn = false
 
 console.log(typeof undefined); // undifind
 console.log(typeof null); // object
+console.log(name);
+console.log(age);
